@@ -1,6 +1,6 @@
 # Some counting with a while.
-a = 0
-while a < 15
+a = 1
+while a <= 15
     print a, " "
     print "\n"
     if a == 10 then
@@ -10,4 +10,3 @@ while a < 15
     a = a + 1
 end
 print "All done!"
-print "\n"
