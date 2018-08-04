@@ -5,6 +5,7 @@ while a < 15
     print "\n"
     if a == 10 then
         print "made it to ten!!"
+        print "\n"
     end
     a = a + 1
 end
