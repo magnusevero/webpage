@@ -16,5 +16,9 @@ class Calculator
     def divide(y)
         @x / y
     end
+
+    def subtract(y)
+      @x - y
+    end 
   
   end
