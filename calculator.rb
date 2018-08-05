@@ -1,6 +1,4 @@
-# File:  simple_number.rb
-
-class SimpleNumber
+class Calculator
 
     def initialize(num)
       raise unless num.is_a?(Numeric)
